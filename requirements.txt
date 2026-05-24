@@ -1,0 +1,33 @@
+# Leo - Advanced DDoS/DoS Detection System
+# Python 3.8+ Requirements
+
+# Core Network Analysis
+scapy>=2.4.5
+
+# Data Processing & Analysis
+numpy>=1.19.0
+pandas>=1.1.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+
+# HTTP/API Requests
+requests>=2.25.0
+
+# Geographic IP Lookup
+geoip2>=4.0.0
+
+# Optional: For enhanced performance monitoring
+psutil>=5.8.0
+
+# Installation:
+# pip3 install -r requirements.txt
+# 
+# System Dependencies (installed by leo-install.sh):
+# - libpcap-dev (packet capture)
+# - python3-dev (Python headers)
+# - build-essential (C compilers)
+#
+# GeoIP Database:
+# Download MaxMind GeoLite2-City.mmdb to /opt/leo/data/
+# Available at: https://www.maxmind.com/en/geolite2/geolite2-free-geolocation-data
