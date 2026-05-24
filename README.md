@@ -152,20 +152,6 @@ sudo systemctl enable leo       # Boot startup
 sudo systemctl status leo       # Status
 sudo journalctl -u leo -f       # Logs
 ```
-
-## Rating: 8.5/10
-
-**Production-ready enterprise DDoS detection system with:**
-- Enterprise-grade code quality
-- All 3 code issues fixed
-- Zero syntax/logic errors
-- Clean professional design
-- Comprehensive documentation
-- All Linux distros supported
-- One-command installation
-
----
-
 **Leo - Real-time Network Security Detection**
 
 For detailed documentation, see LEO_DOCUMENTATION.md
